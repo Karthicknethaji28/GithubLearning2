@@ -9,3 +9,5 @@ WhatsApplication
 4.UPI Payment
 
 5.Audio and Video Features
+
+6.Status Features
